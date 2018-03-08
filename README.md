@@ -2,7 +2,7 @@
 
 ### 360
 
-<script src='//vizor.io/static/scripts/vizor-360-embed.js' data-vizorurl='//vizor.io/embed/krdavis/commons_east'></script>
+<script> src='https://vizor.io/static/scripts/vizor-360-embed.js' data-vizorurl='https://vizor.io/embed/krdavis/commons_east' </script>
 
 Project description
 
