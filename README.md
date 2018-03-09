@@ -7,3 +7,5 @@
 Project description
 
 I call my project "The Colorless Court", the image is supposed to convey the colorless appearence of the Harrison High School courtyard area, with it being almost completely being concrete & stone. I hope that this will inspire someone in my class to begin work on making the courtyard a more colorful, inviting place for the students who eat outside.
+
+Note: I could not get the embed to work, so instead, the code is pasted above, the links to the code and actual image should work.
