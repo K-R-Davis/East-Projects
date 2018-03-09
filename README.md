@@ -2,7 +2,7 @@
 
 ### 360
 
-<iframe src='https://vizor.io/static/scripts/vizor-360-embed.js' data-vizorurl='https://vizor.io/embed/krdavis/commons_east'> </iframe>
+<iframe width="854" height="480" src='https://vizor.io/static/scripts/vizor-360-embed.js' data-vizorurl='https://vizor.io/embed/krdavis/commons_east'> </iframe>
 
 Project description
 
